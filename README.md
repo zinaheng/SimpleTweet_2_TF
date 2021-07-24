@@ -1,4 +1,5 @@
-# SimpleTweet_2_TF
+#PLEASE REVIEW THE FOLDER TWITTERCLONE ONLY AS I HAD ISSUE WITH GITHUB AND PUSHED OLD PROJECT TO THIS REPO AS WELL
+# TwitterClone
 # Project 2 - *SimpleTweet*
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
